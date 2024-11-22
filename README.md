@@ -3,8 +3,8 @@
 ## Clone the Repository
 
 ```
-git clone <repository_url>
-cd <repository_name>
+git clone https://github.com/Vivek-Raiyani/Lightning_fast_ai_agent.git
+cd Lightning_fast_ai_agent
 ```
 
 ## Install Dependencies
