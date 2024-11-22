@@ -82,7 +82,6 @@ else:
             [
                 "Summarize",
                 "Generate Quiz",
-                "Q&A from Video",
                 "Find Short-Form Timestamps",
                 "Generate Blog Post"
             ]
