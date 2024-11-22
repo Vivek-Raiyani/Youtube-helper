@@ -20,7 +20,7 @@ st.title("Welcome to My App")
 # API Key input
 st.session_state['api_key'] = st.sidebar.text_input(
     label="Enter your OpenAI API key:",
-    type="password",value='11289d43-2b48-476b-9e02-9fb96a669c80'
+    type="password",
 )
 
 # Model selection
