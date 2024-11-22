@@ -1,6 +1,6 @@
 streamlit
 openai
 youtube-transcript-api
-langchain
+langchain_community
 chromadb
 langchain-openai
